@@ -1,2 +1,2 @@
-# Regualr-stock-details
+# Regular-stock-details
 Stock entry app using node,express,mongodb
